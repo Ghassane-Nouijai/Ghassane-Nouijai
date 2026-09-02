@@ -1,11 +1,13 @@
-## Hi there 👋
+## Welocome to My GitHub
 
-Chemical Engineering student at Imperial College London who codes for fun.
+I am a Chemical Engineering student at Imperial College London who codes for fun.
 
-I’m really into fluid sims and computational chemistry, mainly working in C++ and Python. Right now, I'm building a reaction vessel simulation and testing out ways to use AI to speed up massive fluid simulations without losing accuracy.
+I’m deeply interested in fluid simulations and computational chemistry, mainly working in C++. Right now, I'm building a reaction vessel simulator and exploring how to use AI to accelerate massive fluid simulations without losing numerical accuracy.
 
-Built my own 3D renderer and physics engine from scratch using C++ and OpenGL for my simulation project and planning on making the jump to Vulkan for performance jump.
+Physics & Graphics: Built my own 3D renderer and physics engine from scratch using C++ and OpenGL, with plans to migrate to Vulkan for a performance boost.
 
-In the other hand, I am a home chemist and I love computational chemistry
+Interests: Home chemistry, fluid dynamics, and simulation architecture.
 
-Always open to chatting about Physics Engines, 3D Graphics, Chemistry or Sim Tech!
+Languages: Fluent in Spanish, French, and Arabic. Feel free to reach out in whichever language you prefer!
+
+Always open to chatting about physics engines, 3D graphics, chemistry, or simulation tech!
